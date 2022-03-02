@@ -5,10 +5,10 @@
 **Asset Gambar**
 - https://github.com/zigurous/unity-flappy-bird-tutorial
 
-**Asset Sound Effect
+**Asset Sound Effect**
 - https://assetstore.unity.com/packages/audio/sound-fx/free-casual-game-sfx-pack-54116
 
-**cara memainkan game** 
+**Cara Memainkan Game** 
 - klik mouse kiri atau keypad kiri
 
 tampilan game
